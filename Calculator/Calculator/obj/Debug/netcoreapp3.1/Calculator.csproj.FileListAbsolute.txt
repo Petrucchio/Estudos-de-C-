@@ -1,0 +1,17 @@
+C:\Users\victor\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\victor\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\victor\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\victor\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\victor\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\victor\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\victor\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\victor\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\victor\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\victor\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\victor\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\victor\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\victor\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
+C:\Users\victor\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\CalculatorLibrary.dll
+C:\Users\victor\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\CalculatorLibrary.pdb
+C:\Users\victor\source\repos\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CopyComplete
+C:\Users\victor\source\repos\Calculator\Calculator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
